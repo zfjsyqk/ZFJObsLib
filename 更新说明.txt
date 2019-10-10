@@ -1,0 +1,16 @@
+本次更新-V1.2.7
+1.新增读取其他项目UUID功能；
+2.新增修改混淆项目UUID功能；
+
+教学视频:
+链接:https://pan.baidu.com/s/1pqUkgU8YxSzjqTzpHlAD6g  密码:9sll
+
+详细说明:
+Python-iOS代码混淆-马甲包混淆工具（Python脚本混淆iOS工程）
+https://zfj1128.blog.csdn.net/article/details/95482006
+
+下载地址：
+https://gitee.com/zfj1128/ZFJObsLib_dmg
+
+备注：
+如果可以请去给我的博客和git点个赞👍👍👍！
