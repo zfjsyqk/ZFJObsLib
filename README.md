@@ -54,7 +54,7 @@
 Objective-c 、Swift、C++、C、Dart
 
 ## 软件界面
-![image](https://zfjobslib.top/images/detail-img/menu.png)
+![image](https://zfjobslib.top/images/software-img/11.png)
 
 ![image](https://zfjobslib.top/images/software-img/22.png)
 
