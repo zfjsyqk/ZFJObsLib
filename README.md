@@ -5,10 +5,11 @@
 ![image](https://zfjobslib.top/images/ZFJObsLib.png)
 
 ## 联系作者
+
 #### 作者：[ZFJ_张福杰](http://zfj1128.blog.csdn.net)
 #### QQ：[2723834718](https://zfjobslib.top/images/qq2.png)
 #### EMAIL：zfjobslib@vip.qq.com
-#### Telegram：@Joker_Me
+#### Telegram：[@Joker_Me](https://zfjobslib.top/images/telegram_3_2.png)
 
 ## 详细信息
 #### 官网地址：http://zfjobslib.top
@@ -21,11 +22,9 @@
 
 ## 更新日志
 
-#### V2.0.4（2023年02月11日）更新内容：
+#### V2.0.5（2023年02月19日）更新内容：
 
-#### <font color=FF0000>1、优化加密字符串逻辑；</font>
-
-#### <font color=FF0000>2、优化软件启动速度；</font>
+#### <font color=FF0000>1、修复属性混淆bug；</font>
 
 #### [>>> 历史更新记录](https://note.youdao.com/s/OAxMvEOq)
 
