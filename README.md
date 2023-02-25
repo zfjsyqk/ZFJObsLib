@@ -12,21 +12,26 @@
 #### Telegram：[@Joker_Me](https://zfjobslib.top/images/telegram_3_2.png)
 
 ## 详细信息
+
 #### 官网地址：http://zfjobslib.top
 #### 博客地址：http://zfj1128.blog.csdn.net
 #### 使用问答：http://zfjobslib.top/qahelp.html
 #### 详细说明：http://zfjobslib.top/detail.html
 #### 付款链接：http://zfjobslib.top/paycode.html
 #### 隐私协议：http://zfjwork.top/agreement.html
-
+#### 更新历史：https://zfjobslib.top/history.html
 
 ## 更新日志
 
-#### V2.0.5（2023年02月19日）更新内容：
+### V2.0.6（2023年02月25日）更新内容：
 
-#### <font color=FF0000>1、修复属性混淆bug；</font>
+#### <font color=FF0000>1、新增删除已经读取的uuid功能；</font>
 
-#### [>>> 历史更新记录](https://note.youdao.com/s/OAxMvEOq)
+#### <font color=FF0000>2、新增关键字混淆只加前缀功能；</font>
+
+#### <font color=FF0000>3、优化删除字符串逻辑；</font>
+
+#### [>>> 历史更新记录](https://zfjobslib.top/history.html)
 
 ## 软件说明
 #### 2019年5月开始开发，至今已经第五年了，经历过很多上包大佬的检验，功能强大，欢迎使用，更多的过包记录和续费记录请看作者的QQ空间。
