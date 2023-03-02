@@ -23,13 +23,9 @@
 
 ## 更新日志
 
-### V2.0.6（2023年02月25日）更新内容：
+### V2.0.7（2023年03月01日）更新内容：
 
-#### <font color=FF0000>1、新增删除已经读取的uuid功能；</font>
-
-#### <font color=FF0000>2、新增关键字混淆只加前缀功能；</font>
-
-#### <font color=FF0000>3、优化删除字符串逻辑；</font>
+#### <font color=FF0000>1、修复已知bug；</font>
 
 #### [>>> 历史更新记录](https://zfjobslib.top/history.html)
 
