@@ -23,9 +23,9 @@
 
 ## 更新日志
 
-### V2.0.7（2023年03月01日）更新内容：
+### V2.0.8（2023年03月19日）更新内容：
 
-#### <font color=FF0000>1、修复已知bug；</font>
+#### <font color=FF0000>1、优化混淆逻辑；</font>
 
 #### [>>> 历史更新记录](https://zfjobslib.top/history.html)
 
