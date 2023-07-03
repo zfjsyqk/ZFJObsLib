@@ -23,10 +23,10 @@
 
 ## 更新日志
 
-### V2.1.2（2023年05月27日）更新内容：
+### V2.1.3（2023年07月02日）更新内容：
 
 #### <font color=FF0000>1、优化混淆加密逻辑；</font>
-#### <font color=FF0000>2、优化Flutter混淆白名单功能；</font>
+#### <font color=FF0000>2、更名为"CodeFog"；</font>
 
 #### [>>> 历史更新记录](https://zfjobslib.top/history.html)
 
