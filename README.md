@@ -23,9 +23,10 @@
 
 ## 更新日志
 
-### V2.1.4（2023年08月20日）更新内容：
+### V2.1.6（2023年12月24日）更新内容：
 
-#### <font color=FF0000>1、修复前缀替换闪退bug；</font>
+#### <font color=FF0000>1、优化加密字符串逻辑；</font>
+#### <font color=FF0000>2、新增定义配置文件；</font>
 
 #### [>>> 历史更新记录](https://zfjobslib.top/history.html)
 
