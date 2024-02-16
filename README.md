@@ -23,10 +23,10 @@
 
 ## 更新日志
 
-### V2.1.6（2023年12月24日）更新内容：
+### V2.1.7（2024年02月16日）更新内容：
 
-#### <font color=FF0000>1、优化加密字符串逻辑；</font>
-#### <font color=FF0000>2、新增定义配置文件；</font>
+#### <font color=FF0000>1、新增混淆国际化KEY功能；</font>
+#### <font color=FF0000>2、优化代码混淆生成逻辑；</font>
 
 #### [>>> 历史更新记录](https://zfjobslib.top/history.html)
 
