@@ -1,5 +1,5 @@
 
-# ZFJObsLib - ZFJ代码混淆软件|iOS代码混淆|iOS代码混淆工具
+# ZFJObsLib - ZFJ代码混淆软件|iOS代码混淆|iOS代码混淆工具|Flutter代码混淆工具
 
 
 ![image](https://zfjobslib.top/images/ZFJObsLib.png)
@@ -23,10 +23,9 @@
 
 ## 更新日志
 
-### V2.1.8（2024年02月25日）更新内容：
+### V2.1.9（2024年03月02日）更新内容：
 
-#### <font color=FF0000>1、优化字符串加密逻辑；</font>
-#### <font color=FF0000>2、优化映射列表导出逻辑；</font>
+#### <font color=FF0000>1、优化属性混淆逻辑；</font>
 
 #### [>>> 历史更新记录](https://zfjobslib.top/history.html)
 
