@@ -13,19 +13,20 @@
 
 ## 详细信息
 
-#### 官网地址：http://zfjobslib.top
-#### 博客地址：http://zfj1128.blog.csdn.net
-#### 使用问答：http://zfjobslib.top/qahelp.html
-#### 详细说明：http://zfjobslib.top/detail.html
-#### 付款链接：http://zfjobslib.top/paycode.html
-#### 隐私协议：http://zfjwork.top/agreement.html
-#### 更新历史：https://zfjobslib.top/history.html
+#### 官网地址：https://zfjsafe.com
+#### 博客地址：https://zfj1128.blog.csdn.net
+#### 使用问答：https://zfjsafe.com/qahelp.html
+#### 详细说明：https://zfjsafe.com/detail.html
+#### 付款链接：https://zfjsafe.com/paycode.html
+#### 隐私协议：https://zfjsafe.com/agreement.html
+#### 更新历史：https://zfjsafe.com/history.html
 
 ## 更新日志
 
-### V2.2.0（2024年03月10日）更新内容：
+### V2.2.2（2024年03月30日）更新内容：
 
-#### <font color=FF0000>1、修复国际化混淆BUG；；</font>
+#### <font color=FF0000>1、修复函数混淆BUG；</font>
+#### <font color=FF0000>2、优化属性混淆逻辑；</font>
 
 #### [>>> 历史更新记录](https://zfjobslib.top/history.html)
 
