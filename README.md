@@ -23,10 +23,9 @@
 
 ## 更新日志
 
-### V2.2.2（2024年03月30日）更新内容：
+### V2.2.3（2024年04月07日）更新内容：
 
-#### <font color=FF0000>1、修复函数混淆BUG；</font>
-#### <font color=FF0000>2、优化属性混淆逻辑；</font>
+#### <font color=FF0000>1、修复国际化KEY加前缀BUG；</font>
 
 #### [>>> 历史更新记录](https://zfjobslib.top/history.html)
 
