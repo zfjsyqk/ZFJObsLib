@@ -1,5 +1,5 @@
 
-# ZFJObsLib - ZFJ代码混淆软件|iOS代码混淆|iOS代码混淆工具|Flutter代码混淆工具
+# CodeFog|ZFJObsLib - ZFJ代码混淆软件|iOS代码混淆|iOS代码混淆工具|Flutter代码混淆工具
 
 
 ![image](https://zfjobslib.top/images/ZFJObsLib.png)
@@ -23,11 +23,14 @@
 
 ## 更新日志
 
-### V2.2.3（2024年04月07日）更新内容：
+### V2.2.4（2024年05月19日）更新内容：
 
-#### <font color=FF0000>1、修复国际化KEY加前缀BUG；</font>
+#### <font color=FF0000>1、优化Flutter变量混淆；</font>
+#### <font color=FF0000>2、优化Flutter资源名混淆；</font>
+#### <font color=FF0000>3、优化iOS类名混淆；</font>
+#### <font color=FF0000>4、优化iOS属性混淆；</font>
 
-#### [>>> 历史更新记录](https://zfjobslib.top/history.html)
+#### [>>> 历史更新记录](https://zfjsafe.com/history.html)
 
 ## 软件说明
 #### 2019年5月开始开发，至今已经第五年了，经历过很多上包大佬的检验，功能强大，欢迎使用，更多的过包记录和续费记录请看作者的QQ空间。
@@ -43,19 +46,19 @@
 #### 前缀替换、图片压缩、多语言翻译助手、无用资源清理工具、明文加密
 ### 功能图如下：
 
-![image](https://zfjobslib.top/images/software-img/tree_fun_4.png)
+![image](https://zfjsafe.com/images/software-img/tree_fun_4.png)
 
 ## 混淆模式
 软件的混淆模式一共有四种，满足您所有的需求，模式如下：
-![image](https://zfjobslib.top/images/detail-img/obs_confusion_mode.png)
+![image](https://zfjsafe.com/images/detail-img/obs_confusion_mode.png)
 
 ## 支持语言
 Objective-c 、Swift、C++、C、Dart
 
 ## 软件界面
-![image](https://zfjobslib.top/images/software-img/11.png)
+![image](https://zfjsafe.com/images/software-img/11.png)
 
-![image](https://zfjobslib.top/images/software-img/22.png)
+![image](https://zfjsafe.com/images/software-img/22.png)
 
 ## 特别说明
 #### 本软件使用的是Python的GUI库，如果在某些Mac电脑上打开可能有点慢，请耐心等待或者多点两下！
