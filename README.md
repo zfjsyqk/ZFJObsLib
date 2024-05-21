@@ -23,12 +23,9 @@
 
 ## 更新日志
 
-### V2.2.4（2024年05月19日）更新内容：
+### V2.2.5（2024年05月21日）更新内容：
 
-#### <font color=FF0000>1、优化Flutter变量混淆；</font>
-#### <font color=FF0000>2、优化Flutter资源名混淆；</font>
-#### <font color=FF0000>3、优化iOS类名混淆；</font>
-#### <font color=FF0000>4、优化iOS属性混淆；</font>
+#### <font color=FF0000>- 1、修复登录失败的BUG；</font>
 
 #### [>>> 历史更新记录](https://zfjsafe.com/history.html)
 
