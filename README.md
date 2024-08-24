@@ -15,20 +15,20 @@
 
 #### 官网地址：https://zfjsafe.com
 #### 博客地址：https://zfj1128.blog.csdn.net
-#### 使用问答：https://zfjsafe.com/qahelp.html
-#### 详细说明：https://zfjsafe.com/detail.html
-#### 付款链接：https://zfjsafe.com/paycode.html
-#### 隐私协议：https://zfjsafe.com/agreement.html
-#### 更新历史：https://zfjsafe.com/history.html
+#### 使用问答：https://zfjsafe.com/qahelp
+#### 详细说明：https://zfjsafe.com/detail
+#### 付款链接：https://zfjsafe.com/paycode
+#### 隐私协议：https://zfjsafe.com/agreement
+#### 更新历史：https://zfjsafe.com/history
 
 ## 更新日志
 
-### V2.2.6（2024年07月12日）更新内容：
+### V2.2.7（2024年08月24日）更新内容：
 
 #### <font color=FF0000>- 1、优化属性混淆规则；</font>
-#### <font color=FF0000>- 2、优化加密字符串规则；</font>
+#### <font color=FF0000>- 2、优化删除注释功能；</font>
 
-#### [>>> 历史更新记录](https://zfjsafe.com/history.html)
+#### [>>> 历史更新记录](https://zfjsafe.com/history)
 
 ## 软件说明
 #### 2019年5月开始开发，至今已经第五年了，经历过很多上包大佬的检验，功能强大，欢迎使用，更多的过包记录和续费记录请看作者的QQ空间。
