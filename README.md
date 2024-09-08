@@ -9,7 +9,7 @@
 #### 作者：[ZFJ_张福杰](http://zfj1128.blog.csdn.net)
 #### QQ：[2723834718](https://zfjobslib.top/images/qq2.png)
 #### EMAIL：zfjobslib@vip.qq.com
-#### Telegram：[@Joker_Me](https://zfjobslib.top/images/telegram_3_2.png)
+#### Telegram：[@joker_me](https://zfjobslib.top/images/telegram_3_2.png)
 
 ## 详细信息
 
@@ -23,10 +23,9 @@
 
 ## 更新日志
 
-### V2.2.7（2024年08月24日）更新内容：
+### V2.2.8（2024年09月08日）更新内容：
 
 #### <font color=FF0000>- 1、优化属性混淆规则；</font>
-#### <font color=FF0000>- 2、优化删除注释功能；</font>
 
 #### [>>> 历史更新记录](https://zfjsafe.com/history)
 
