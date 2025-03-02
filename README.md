@@ -23,10 +23,10 @@
 
 ## 更新日志
 
-### V2.2.9（2024年11月17日）更新内容：
+### V2.3.0（2025年03月02日）更新内容：
 
-#### <font color=FF0000>- 1、优化iOS混淆规则；</font>
-#### <font color=FF0000>- 2、优化Flutter混淆规则；</font>
+#### <font color=FF0000>- 1、优化明文字符串加密规则；</font>
+#### <font color=FF0000>- 2、优化枚举混淆规则；</font>
 
 #### [>>> 历史更新记录](https://zfjsafe.com/history)
 
