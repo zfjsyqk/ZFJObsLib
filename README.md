@@ -23,9 +23,11 @@
 
 ## 更新日志
 
-### V2.3.5（2025年09月14日）更新内容：
+### V2.3.6（2026年03月15日）更新内容：
 
-#### <font color=FF0000>- 1、修复已知BUG；</font>
+#### <font color=FF0000>- 1、修复加密字符串BUG；</font>
+#### <font color=FF0000>- 2、新增加密字符串运算配置功能；</font>
+#### <font color=FF0000>- 3、优化属性函数混淆规则；</font>
 
 #### [>>> 历史更新记录](https://zfjsafe.com/history)
 
